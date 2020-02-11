@@ -90,7 +90,7 @@ fastlane/test_output
 iOSInjectionProject/
 
 # Bundler
-venter/
+vender/
 
 # Xcodegen
 *.xcodeproj/
